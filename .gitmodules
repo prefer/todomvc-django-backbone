@@ -1,0 +1,6 @@
+[submodule "todomvc-django"]
+	path = todomvc-django
+	url = https://github.com/prefer/todomvc-django
+[submodule "todomvc-backbone"]
+	path = todomvc-backbone
+	url = https://github.com/prefer/todomvc-backbone
